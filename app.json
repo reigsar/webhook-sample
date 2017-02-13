@@ -2,5 +2,5 @@
   "name": "Node.js Sample",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/reigsar/webhook-sample",
-  "keywords": ["node", "express", "static"]
+  "keywords": ["api.ai", "natural language"]
 }
