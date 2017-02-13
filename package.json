@@ -1,0 +1,15 @@
+{
+  "name": "firi-webhook-middleware-api",
+  "version": "1.0.0",
+  "description": "A middleware to connect webhook api.ai bot with FIDOR API ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sara Reig",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
+}
