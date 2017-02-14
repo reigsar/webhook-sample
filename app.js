@@ -52,5 +52,5 @@ restService.post('/webhook', function (req, res) {
 });
 
 restService.listen((process.env.PORT || 5000), function () {
-    console.log("Server listening");
+    console.log("Webhook server listening");
 });
