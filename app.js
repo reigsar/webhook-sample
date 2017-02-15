@@ -9,8 +9,8 @@ restService.use(bodyParser.json());
 
 restService.post('/webhook', function (req, res) {
 
-    console.log('hook request');
-
+    console.log('chatbot hook request');
+    console.log('change in only one repository');
     try {
         var speech = 'empty speech';
 
